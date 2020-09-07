@@ -5,4 +5,5 @@ def countdown(integer)
   while integer < 0
     return "HAPPY NEW YEAR!"
     counter -= 1
+  end
 end
